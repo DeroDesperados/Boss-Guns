@@ -1,1 +1,1 @@
-# Boss-Guns- These are the neccessary files to create the Dero Desperados Boss Gun (Legendary level) section of the Dero Desperados Artificer Standard NFA collection. Boss gun files consist of the main assets, icons, cover art, and sign files.
+# Desperado Guns- These are the neccessary files to create the Desperado Guns collection of the Dero Desperados Artificer Standard NFA collection. Desperado Guns files consist of the main assets, icons, cover art, and sign files.
